@@ -1,4 +1,4 @@
-# AI Research Assistant
+# Paper Search Assistant
 
 一个完整的 AI 论文研究助手，支持 arXiv 检索、论文总结、短期/长期记忆、Chroma RAG、SQLite 持久化、MCP 工具入口和 Next.js 流式聊天界面。
 
